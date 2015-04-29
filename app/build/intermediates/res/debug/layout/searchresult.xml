@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/nameOfUser"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:text="welcome"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Please Select One" 
+        android:textSize="20sp"
+        android:gravity="center"
+        />
+
+    <ImageButton
+        android:id="@+id/bp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#00000000"
+        android:src="@drawable/bloodpressure" />
+
+    <ImageButton
+        android:id="@+id/weight"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#00000000"
+        android:src="@drawable/weightbutton" />
+
+    <ImageButton
+        android:id="@+id/excercise"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#00000000"
+        android:src="@drawable/exercise" />
+
+</LinearLayout><!-- From: file:/E:/Projects/AndroidStudioProjects/SampleTutorials/HeartMonitor/app/src/main/res/layout/searchresult.xml -->

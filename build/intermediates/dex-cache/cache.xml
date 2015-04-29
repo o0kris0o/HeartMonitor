@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Projects\AndroidStudioProjects\SampleTutorials\HeartMonitor\app\libs\achartengine-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="E:\Projects\AndroidStudioProjects\SampleTutorials\HeartMonitor\app\build\intermediates\pre-dexed\debug\achartengine-1.0.0-25504cebc24feaaa633beb5d136980c25cd330b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Krishanthan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Projects\AndroidStudioProjects\SampleTutorials\HeartMonitor\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-c0233827e5608f4209b0d73bd23f7ebf9dc3ab86.jar" />
+    </item>
+
+</items>
